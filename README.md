@@ -44,14 +44,10 @@
 
 ###
 
-<div align="center">
-  <img height="100" src="https://w0.peakpx.com/wallpaper/356/538/HD-wallpaper-igris-sololeveling-shadow-webtoon-solo-chahaein-sung-jin-woo.jpg"  />
-</div>
-
 ###
 
 <br clear="both">
 
-<img src="https://www.peakpx.com/en/hd-wallpaper-desktop-ewigh" />
+<img src="https://raw.githubusercontent.com/4evilxcrossi/4evilxcrossi/output/snake.svg" alt="Snake animation" />
 
 ###
