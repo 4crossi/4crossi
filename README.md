@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/4evilxcrossi/4evilxcrossi/output/snake.svg" alt="Snake animation" />
+<img src="https://www.peakpx.com/en/hd-wallpaper-desktop-ewigh" />
 
 ###
