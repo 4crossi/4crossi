@@ -7,7 +7,8 @@ I specialize in web application penetration and cyber security testing with a st
 <h3>Core Expertise</h3>
 
 <ul>
-  <li>Web Application Penetration Testing (OWASP Top 10, reconnaissance, exploitation)</li>
+  <li>Web Application Penetration Testing </li>
+  <li> AI Prompting
   <li>Python for security tooling, automation, and exploit development</li>
   <li>Bash scripting for efficient command-line workflows</li>
   <li>Custom algorithm design for exploit logic and detection systems</li>
