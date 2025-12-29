@@ -1,7 +1,7 @@
 ## Hi, I'm Deepanshu
 
 <p>
-I specialize in web application penetration testing with a strong focus on real-world attack simulation, vulnerability discovery, and security automation. My work revolves around breaking systems ethically, understanding attacker behavior, and building resilient defenses.
+I specialize in web application penetration and cyber security testing with a strong focus on real-world attack simulation, vulnerability discovery, and security automation. My work revolves around breaking systems ethically, understanding attacker behavior, and building resilient defenses.
 </p>
 
 <h3>Core Expertise</h3>
