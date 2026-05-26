@@ -29,19 +29,15 @@ Developing an AI-integrated Red Team Automation Framework that combines offensiv
 
 ---
 
-## 📊 GitHub Activity
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=4crossi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
     height="170"
-    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4crossi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4crossi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800"
     height="170"
-    alt="Top Languages"
   />
 </p>
 
@@ -49,7 +45,6 @@ Developing an AI-integrated Red Team Automation Framework that combines offensiv
   <img
     src="https://streak-stats.demolab.com?user=4crossi&theme=tokyonight&hide_border=true&border_radius=10"
     height="170"
-    alt="GitHub Streak"
   />
 </p>
 
