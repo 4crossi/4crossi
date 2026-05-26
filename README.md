@@ -28,13 +28,9 @@
 Developing an AI-integrated Red Team Automation Framework that combines offensive security methodologies with intelligent automation to simulate realistic attack paths, improve threat emulation accuracy, and streamline security assessments.
 
 ---
-
 <p align="center">
-  <a href="https://github.com/4crossi">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=4crossi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img height="170em" src="https://streak-stats.demolab.com?user=4crossi&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🛠 Tech Stack
