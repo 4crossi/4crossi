@@ -29,8 +29,9 @@ Developing an AI-integrated Red Team Automation Framework that combines offensiv
 
 ---
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=4crossi&theme=tokyonight&hide_border=true"/>
+  <img height="120em" src="https://streak-stats.demolab.com?user=4crossi&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 🛠 Tech Stack
